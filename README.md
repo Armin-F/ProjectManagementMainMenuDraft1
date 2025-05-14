@@ -1,1 +1,1 @@
-# Ignore ReadME -> ZIP File of Main menu present in the MainMenu File
+# Ignore ReadME -> CHECK RELEASES FOR THE FINISHED VERSION OF MAIN MENU
